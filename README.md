@@ -1,6 +1,6 @@
 # Mini Cryptocurrency Exchange Platform
 
-A cryptocurrency exchange is a group project for a design pattern course at King Abdulaziz University in 2022, and it is a marketplace where users can buy, sell, and trade cryptocurrencies locally. It functions similarly to online brokerages. This project focuses on developing a cryptocurrency exchange that addresses specific problems and utilizes design patterns for effective implementation.
+A cryptocurrency exchange is a group project for a design pattern course at King Abdulaziz University in 2022. It is a marketplace where users can buy, sell, and trade cryptocurrencies locally. It functions similarly to online brokerages. This project focuses on developing a cryptocurrency exchange that addresses specific problems and utilizes design patterns for effective implementation.
 
 ## Problems
 
