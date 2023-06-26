@@ -42,6 +42,9 @@ The provided code consists of several classes and interfaces that contribute to 
 - `wallet.java`: Represents the user's wallet and manages the balance, cryptocurrency holdings, and related operations.
 
 Please refer to the provided code for further implementation details.
+## Diagram
+
+![Cryptocurrency Exchange Diagram](class_diagram.jpg)
 
 ## Getting Started
 
